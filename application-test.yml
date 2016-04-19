@@ -1,0 +1,4 @@
+config:
+  for:
+    test:
+      value: a
